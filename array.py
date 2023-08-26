@@ -11,4 +11,3 @@ print("Subtraction of two array is : ",arr1-arr2)
 print("Multiply of two array is : ",arr1*arr2)
 
 print("Division of two array is : ",arr1/arr2)
-
